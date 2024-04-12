@@ -3,7 +3,8 @@ version: 0.2
 env:
   variables:
      AWS_DEFAULT_REGION: "us-west-2"
-     IMAGE_REPO_NAME: "saji-repo:latest"
+     IMAGE_REPO_NAME: "saji-repo"
+     IMAGE_TAG: "latest"
      AWS_ACCOUNT_ID: "730335379918"
 
 phases:
